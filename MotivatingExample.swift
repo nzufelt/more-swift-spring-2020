@@ -33,5 +33,3 @@ func getRequest(from urlString: String) {
     }
     task.resume()
 }
-
-// points: has closures in it, and really needs one as well.
